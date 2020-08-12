@@ -7,3 +7,5 @@ A list of [Medium](https://medium.com) tech writers and publications from Bangla
 
 ### Writers
 - [Ahmed Shamim Hassan](https://medium.com/@me_shaon)
+- [Sadman Samee](https://medium.com/@sadmansamee)
+
